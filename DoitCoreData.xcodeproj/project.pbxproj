@@ -20,7 +20,7 @@
 
 /* Begin PBXFileReference section */
 		9F10AB1B1EDCCAC60096817B /* CompleteTaskViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CompleteTaskViewController.swift; sourceTree = "<group>"; };
-		9FBE870B1EDC54CB002B89CA /* Doit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Doit.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9FBE870B1EDC54CB002B89CA /* DoitCoreData.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DoitCoreData.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FBE870E1EDC54CB002B89CA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9FBE87101EDC54CB002B89CA /* TasksViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TasksViewController.swift; sourceTree = "<group>"; };
 		9FBE87131EDC54CB002B89CA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -54,7 +54,7 @@
 		9FBE870C1EDC54CB002B89CA /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				9FBE870B1EDC54CB002B89CA /* Doit.app */,
+				9FBE870B1EDC54CB002B89CA /* DoitCoreData.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -79,9 +79,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		9FBE870A1EDC54CB002B89CA /* Doit */ = {
+		9FBE870A1EDC54CB002B89CA /* DoitCoreData */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9FBE87201EDC54CB002B89CA /* Build configuration list for PBXNativeTarget "Doit" */;
+			buildConfigurationList = 9FBE87201EDC54CB002B89CA /* Build configuration list for PBXNativeTarget "DoitCoreData" */;
 			buildPhases = (
 				9FBE87071EDC54CB002B89CA /* Sources */,
 				9FBE87081EDC54CB002B89CA /* Frameworks */,
@@ -91,9 +91,9 @@
 			);
 			dependencies = (
 			);
-			name = Doit;
+			name = DoitCoreData;
 			productName = Doit;
-			productReference = 9FBE870B1EDC54CB002B89CA /* Doit.app */;
+			productReference = 9FBE870B1EDC54CB002B89CA /* DoitCoreData.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -112,7 +112,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 9FBE87061EDC54CB002B89CA /* Build configuration list for PBXProject "Doit" */;
+			buildConfigurationList = 9FBE87061EDC54CB002B89CA /* Build configuration list for PBXProject "DoitCoreData" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -125,7 +125,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				9FBE870A1EDC54CB002B89CA /* Doit */,
+				9FBE870A1EDC54CB002B89CA /* DoitCoreData */,
 			);
 		};
 /* End PBXProject section */
@@ -280,7 +280,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Doit/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = app.test.com.Doit;
+				PRODUCT_BUNDLE_IDENTIFIER = app.test.com.DoitCoreData;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -292,7 +292,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Doit/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = app.test.com.Doit;
+				PRODUCT_BUNDLE_IDENTIFIER = app.test.com.DoitCoreData;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -301,7 +301,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		9FBE87061EDC54CB002B89CA /* Build configuration list for PBXProject "Doit" */ = {
+		9FBE87061EDC54CB002B89CA /* Build configuration list for PBXProject "DoitCoreData" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9FBE871E1EDC54CB002B89CA /* Debug */,
@@ -310,7 +310,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9FBE87201EDC54CB002B89CA /* Build configuration list for PBXNativeTarget "Doit" */ = {
+		9FBE87201EDC54CB002B89CA /* Build configuration list for PBXNativeTarget "DoitCoreData" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9FBE87211EDC54CB002B89CA /* Debug */,

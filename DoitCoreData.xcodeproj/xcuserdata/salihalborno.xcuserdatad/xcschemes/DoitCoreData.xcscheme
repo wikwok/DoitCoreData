@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9FBE870A1EDC54CB002B89CA"
-               BuildableName = "Doit.app"
-               BlueprintName = "Doit"
-               ReferencedContainer = "container:Doit.xcodeproj">
+               BuildableName = "DoitCoreData.app"
+               BlueprintName = "DoitCoreData"
+               ReferencedContainer = "container:DoitCoreData.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9FBE870A1EDC54CB002B89CA"
-            BuildableName = "Doit.app"
-            BlueprintName = "Doit"
-            ReferencedContainer = "container:Doit.xcodeproj">
+            BuildableName = "DoitCoreData.app"
+            BlueprintName = "DoitCoreData"
+            ReferencedContainer = "container:DoitCoreData.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9FBE870A1EDC54CB002B89CA"
-            BuildableName = "Doit.app"
-            BlueprintName = "Doit"
-            ReferencedContainer = "container:Doit.xcodeproj">
+            BuildableName = "DoitCoreData.app"
+            BlueprintName = "DoitCoreData"
+            ReferencedContainer = "container:DoitCoreData.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9FBE870A1EDC54CB002B89CA"
-            BuildableName = "Doit.app"
-            BlueprintName = "Doit"
-            ReferencedContainer = "container:Doit.xcodeproj">
+            BuildableName = "DoitCoreData.app"
+            BlueprintName = "DoitCoreData"
+            ReferencedContainer = "container:DoitCoreData.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
