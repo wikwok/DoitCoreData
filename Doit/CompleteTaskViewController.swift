@@ -20,9 +20,9 @@ class CompleteTaskViewController: UIViewController {
 
         // Do any additional setup after loading the view.
         if task.important {
-            taskLabel.text = "❗️\(task.Name)"
+            taskLabel.text = "❗️\(task.name)"
         } else {
-            taskLabel.text = task.Name
+            taskLabel.text = task.name
         }
  
     }
